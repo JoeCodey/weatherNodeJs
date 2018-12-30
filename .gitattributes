@@ -1,0 +1,4 @@
+key.js filter=git-crypt diff=git-crypt
+sensitive.json filter=git-crypt diff=git-crypt
+*.key filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
