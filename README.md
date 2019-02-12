@@ -1,6 +1,6 @@
 # weatherNodeJs
 
-weather interface which takes an approximate address and returns the current and apparent temperature. Credit to DarkSky API for providing weather information. You must create your own DarkSky developer account and configure your API key accoringly. 
+weather interface which takes an approximate address and returns the current and apparent temperature. Uses Google geoCode api to generate latitude and longitude coordinate. Weather information is a retrived from DarkSky API using generate lat/long coordinates. You must create your own DarkSky developer account and configure your API key accoringly. 
 
 # What I learned   
 
